@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+    background-color: #0bed45;
+}
+
+.title{
+font-weight: bold;
+color: blueviolet;
+text-transform: uppercase;
+letter-spacing: 1rem;
+}
+
+.container{
+    color: blueviolet;
+    font-size: 6rem;
+    text-transform: uppercase;
+}
